@@ -2,7 +2,8 @@
   text-align: center;
 }
 
-.mainHeader {
+.mainHeader,
+.recipesHeader {
   font-weight: 900;
   font-size: 3.2em;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -18,4 +19,10 @@
   text-decoration: none;
   color: blue;
   font-size: 18px;
+}
+
+.recipesHeader {
+  font-size: 2.8em;
+  text-align: center;
+  text-decoration: underline;
 }
