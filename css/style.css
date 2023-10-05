@@ -1,0 +1,21 @@
+.indexBody {
+  text-align: center;
+}
+
+.mainHeader {
+  font-weight: 900;
+  font-size: 3.2em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+.recipesList {
+  padding-inline-start: 0px;
+  list-style-type: none;
+}
+
+.recipesList a {
+  text-decoration: none;
+  color: blue;
+  font-size: 18px;
+}
